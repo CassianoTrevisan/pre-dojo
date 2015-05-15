@@ -1,2 +1,7 @@
 Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
 quando estivermos avaliando a sua solução
+
+
+Apenas rodar o main e alterar o arquivo de log (que está na raiz) caso necessário.
+
+Rodar a classe de teste.
